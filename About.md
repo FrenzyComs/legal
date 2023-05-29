@@ -1,26 +1,19 @@
-# Be gay
-# Do crimes
+# Be gay,
+# Do crimes.
 
 Frenzy is currently led by [Ripley White](https://tech.lgbt/@ripples1253).
 
-> "From your first dirt block, to the greatest guild you have ever played with, to late-night deep conversations with your friends, we all know how important communication is.
->
-> We at Revolt strive to create a free and open platform, allowing diversified communities of all kinds to thrive and to be fully transparent with our users. We believe everyone should have total freedom over how they talk with each other.
->
-> We realize these days that privacy has come down lower in priority amongst other values. We believe in freedom of speech, that everyone should have the right to talk freely and express themselves in any way."
+> "Frenzy is a chat platform that is designed to be free and open. It is a fork of Revolt, and it offers many of the same features, including a wide range of customization options and a focus on the community. Frenzy is a great choice for users who want a chat platform that is not controlled by a big corpo and that allows them to express themselves freely.
+> 
+> [Frenzy is Open Source](https://github.com/FrenzyComs), so anyone can inspect the code and make sure that it is secure. It is also free to use, so you can try it out without any risk. If you are looking for a chat platform that is free, open, and customizable, then Frenzy is a great option."
 
-\- nizune, Former Designer
+\- Ripley White, Founder of Frenzy.
 
 ## Our Story
 
-The Revolt project originally started back in 2019 by a group of three students from the United Kingdom and the Czech Republic, looking for an alternative to the already emerging, closed-source chat platforms.
+Frenzy is a chat platform that was started in mid-2023 by a single person. It was created as a personal project to ensure secure communication without the prying eyes of big corporations like Tencent.
 
-Our main focus for the project was to create an open-source, completely compromise-free platform that offered all of the same features and competed against other chat apps.
+## ⚠️ NOTICE:
 
-Revolt as it stands today began development towards the end of 2020 and went online on the 27th of January 2021.
-
-Revolt went into a public beta on the 11th of August 2021.
-
-## For the people
-
-We at Revolt made our platform completely [open-source](https://github.com/revoltchat) to remain transparent while maintaining the best user experience possible. We are very thankful to our users for using Revolt and we think they deserve transparency from our side and we do our best to provide the best platform with the highest standard of privacy and security they deserve. We recognize everyone who helps improve our solution and we are open to contributions from our community as together, we can develop a platform that we all deserve.
+-  No end-to-end encryption:
+> Frenzy ***does not have end-to-end encryption***. This means that your messages may be stored on Frenzy's servers and **could be accessed by third parties**. We try to make our services as secure as possible, however, it is totally possible for me to read your messages if I wanted to. We try to be as transparent as possible, however if we recieve reports about your account we may be required to read your messages in order to stop content against our Acceptable Usage Policy and/or Terms of Service.
