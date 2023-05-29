@@ -1,7 +1,7 @@
-# Communication is critical.
-# Privacy is essential.
+# Be gay
+# Do crimes
 
-Revolt is currently led by [Paul Makles](https://insrt.uk) and in part by [Martin Löffler](https://github.com/fatalerrorcoded).
+Frenzy is currently led by [Ripley White](https://tech.lgbt/@ripples1253).
 
 > "From your first dirt block, to the greatest guild you have ever played with, to late-night deep conversations with your friends, we all know how important communication is.
 >
